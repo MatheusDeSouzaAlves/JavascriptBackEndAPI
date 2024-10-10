@@ -1,0 +1,26 @@
+{
+  "name": "javascriptbackenddb",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusDeSouzaAlves/JavascriptBackEndDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusDeSouzaAlves/JavascriptBackEndDB/issues"
+  },
+  "homepage": "https://github.com/MatheusDeSouzaAlves/JavascriptBackEndDB#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
