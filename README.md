@@ -1,7 +1,7 @@
-Projeto base para utilizar uso de APIs com Javascript
+#Projeto base para utilizar uso de APIs com Javascript#
 
-Bibliotecas opcionais e úteis:
+##Bibliotecas opcionais e úteis:##
 
-Express
-Axios
-Nodemon
+`Express`
+`Axios`
+`Nodemon`
